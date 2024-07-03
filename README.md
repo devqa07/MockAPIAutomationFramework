@@ -69,5 +69,5 @@ Execution Reports(open MOCK-API-AutomationReport.html in a browser to see the de
 
 ****Steps for Manual Execution from Postman:****
 * Download and Install Postman from https://www.postman.com/downloads/
-* Open Postman and click on Import->select the json file([BookStoreMockAPIs.postman_collection.json](..%2F..%2FMyStuff%2FActual%2FBookStoreMockAPIs.postman_collection.json)) and execute the different API requests.
+* Open Postman and click on Import->select the downloaded json file and execute the different API requests.
 
