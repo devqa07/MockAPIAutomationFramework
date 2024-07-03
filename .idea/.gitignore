@@ -1,0 +1,15 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/.idea
+/test-output/
+/target/
+.classpath/
+.classpath
+/.settings/
+*.prefs
+/.project
+/bin
+*.html
+/MOCK-API-AutomationReport.html
+

@@ -1,0 +1,13 @@
+password,Test123
+Registration_message,User registered successfully
+email,dev@gmail.com
+Login_message,Login successful
+search,query
+bookId,1
+title,Book 1
+author,Author 1
+price,10.0
+quantity,2
+cart_message,Book added to cart
+userId,12345
+checkout_message,Checkout successful
